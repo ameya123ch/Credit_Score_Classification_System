@@ -17,4 +17,4 @@ The system will employ several techniques to improve the accuracy of credit scor
 The system is expected to achieve high accuracy in credit score classification, which will help financial institutions make more informed lending decisions. The system will also be scalable, meaning it can handle large volumes of credit score data without compromising its accuracy.
 
 ### Conclusion: 
-The proposed automated credit score classification system using deep learning and machine learning techniques will help financial institutions improve their credit scoring models and make more accurate lending decisions. It will be an essential tool for banks, credit unions, and other financial institutions that rely on credit scores to assess creditworthiness.
+The proposed automated credit score classification system will help financial institutions improve their credit scoring models and make more accurate lending decisions. It will be an essential tool for banks, credit unions, and other financial institutions that rely on credit scores to assess creditworthiness.
